@@ -1,0 +1,92 @@
+﻿  Roam.cpp
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(19,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(137,84): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(137,123): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(137,162): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(138,76): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(138,114): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(138,152): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(139,76): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(139,114): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(139,152): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(140,76): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(140,114): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(140,152): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(142,77): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(142,115): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(142,153): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(160,84): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(160,123): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(160,162): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(161,76): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(161,114): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(161,152): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(162,76): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(162,114): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(162,152): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(163,76): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(163,114): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(163,152): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(165,77): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(165,115): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(165,153): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(192,58): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(218,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(263,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(263,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(264,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(264,54): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(273,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(309,14): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(316,16): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(322,24): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(323,24): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(324,24): warning C4305: '/=': truncation from 'double' to 'float'
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(331,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(332,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(332,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(333,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(333,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(334,78): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(334,122): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(335,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(336,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(336,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(337,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(337,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(338,78): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(338,122): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(339,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(340,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(340,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(341,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(341,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(342,78): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(342,122): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(343,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(344,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(344,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(345,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(345,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(346,78): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(346,122): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(347,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(348,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(348,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(349,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(349,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(350,78): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(350,122): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(351,42): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(352,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(352,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(353,47): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(353,91): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(354,78): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\karan\source\repos\Roaming3D\Roam.cpp(354,122): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  Generating code
+  1 of 199 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Roaming3D.vcxproj -> C:\Users\karan\source\repos\Roaming3D\x64\Release\Roaming3D.exe
